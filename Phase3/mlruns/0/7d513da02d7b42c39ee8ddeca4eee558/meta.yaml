@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/subhasht/Desktop/VSCode%20Programs/GenAI_Curriculum/Phase3/mlruns/0/7d513da02d7b42c39ee8ddeca4eee558/artifacts
+end_time: 1759513754343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d513da02d7b42c39ee8ddeca4eee558
+run_name: rf_iris_demo
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759513752542
+status: 3
+tags: []
+user_id: subhasht

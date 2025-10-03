@@ -1,0 +1,10 @@
+artifact_location: file:///Users/subhasht/Desktop/VSCode%20Programs/GenAI_Curriculum/Phase3/mlruns/0/models/m-52de219129544ab5a8465d0eef37a705/artifacts
+creation_timestamp: 1759513752607
+experiment_id: '0'
+last_updated_timestamp: 1759513754338
+model_id: m-52de219129544ab5a8465d0eef37a705
+model_type: null
+name: model
+source_run_id: 7d513da02d7b42c39ee8ddeca4eee558
+status: 2
+status_message: null

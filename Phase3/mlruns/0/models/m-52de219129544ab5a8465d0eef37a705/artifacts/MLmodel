@@ -1,0 +1,22 @@
+artifact_path: file:///Users/subhasht/Desktop/VSCode%20Programs/GenAI_Curriculum/Phase3/mlruns/0/models/m-52de219129544ab5a8465d0eef37a705/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-52de219129544ab5a8465d0eef37a705
+model_size_bytes: 214436
+model_uuid: m-52de219129544ab5a8465d0eef37a705
+prompts: null
+run_id: 7d513da02d7b42c39ee8ddeca4eee558
+utc_time_created: '2025-10-03 17:49:12.611825'

@@ -5,3 +5,14 @@ prefect
 jupyter
 matplotlib
 streamlit
+seaborn
+plotly
+scipy
+statsmodels
+scikit-learn
+mlflow
+torch
+transformers
+fastapi
+uvicorn
+pydantic
