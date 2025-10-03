@@ -1,0 +1,11 @@
+{
+  "columns": {
+    "order_id": "int64",
+    "customer": "object",
+    "country": "object",
+    "amount": "float64",
+    "ts": "datetime64[ns]",
+    "day": "object",
+    "is_us": "int64"
+  }
+}
