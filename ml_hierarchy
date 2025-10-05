@@ -1,0 +1,10 @@
+// ML Hierarchy
+digraph {
+	ML [label="Machine Learning"]
+	Sup [label="Supervised Learning"]
+	ML -> Sup
+	Cla [label=Classification]
+	Sup -> Cla
+	LR [label="Logistic Regression"]
+	Cla -> LR
+}
