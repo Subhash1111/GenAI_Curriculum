@@ -37,3 +37,5 @@ Upload any notebook and run; install extras if prompted:
 ```python
 # !pip -q install pandas numpy matplotlib seaborn plotly scipy statsmodels scikit-learn duckdb prefect mlflow
 ```
+
+ git push -u origin main
