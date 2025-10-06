@@ -1,0 +1,13 @@
+name: ml-course-starter
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - jupyterlab
+  - ipywidgets
+  - pytest
