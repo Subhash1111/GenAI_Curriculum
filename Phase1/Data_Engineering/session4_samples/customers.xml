@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<customers>
+  <customer>
+    <customer_id>101</customer_id>
+    <name>Aria</name>
+    <region>North</region>
+    <amount>250.5</amount>
+  </customer>
+  <customer>
+    <customer_id>102</customer_id>
+    <name>Dev</name>
+    <region>South</region>
+    <amount>175.0</amount>
+  </customer>
+</customers>
